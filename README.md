@@ -13,3 +13,10 @@ Proyek ini secara khusus difokuskan pada pengembangan model klasifikasi malware 
 - **Pemahaman Algoritma dan Solusi Masalah Dunia Nyata**: Memberikan pemahaman mendalam tentang cara algoritma Naive Bayes dapat digunakan untuk menyelesaikan masalah identifikasi malware.
 - **Peningkatan Keterampilan Analisis Data**: Mahasiswa akan meningkatkan keterampilan analisis data melalui pengumpulan, analisis, dan pembersihan data yang kompleks.
 - **Pengetahuan tentang Penggunaan Metode Naive Bayes**: Menyajikan pengetahuan terkait penggunaan metode Naive Bayes khususnya dalam konteks klasifikasi malware di dunia siber.
+
+## Contributors
+Group 02 CERTAN
++ 12S21040 [Sry Deviani Tambunan](github.com/Christina12S21040)
++ 12S21057 [Agnes Theresia Siburian](github.com/agnestsiburian)
++ 12S21059 [Tio Manalu](github.com/tiomanalu)
++ 12S21060 [Glory Hutahean](github.com/gloryhutahaean12)
