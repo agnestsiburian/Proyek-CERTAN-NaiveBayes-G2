@@ -1,4 +1,4 @@
-# Proyek-CERTAN-NaiveBayes-G2
+# Pengembangan Model Klasifikasi Malware Menggunakan Algoritma Naive Bayes
 
 ## Rincian Proyek
 Proyek ini secara khusus difokuskan pada pengembangan model klasifikasi malware menggunakan algoritma Naive Bayes, dengan penekanan pada jenis Gaussian Naive Bayes, yang diimplementasikan menggunakan bahasa pemrograman Python. Pendekatan ini mencakup langkah-langkah identifikasi dan klasifikasi jenis-jenis malware tertentu dengan memanfaatkan data dari sumber dataset yang dapat diakses melalui tautan [Network Traffic Android Malware](https://www.kaggle.com/datasets/xwolf12/network-traffic-android-malware). 
