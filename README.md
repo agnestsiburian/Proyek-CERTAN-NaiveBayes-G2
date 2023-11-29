@@ -16,7 +16,7 @@ Proyek ini secara khusus difokuskan pada pengembangan model klasifikasi malware 
 
 ## Contributors
 Group 02 CERTAN
-+ 12S21040 [Sry Deviani Tambunan](github.com/Christina12S21040)
++ 12S21040 [Christina Putri Hutahaean](github.com/Christina12S21040)
 + 12S21057 [Agnes Theresia Siburian](github.com/agnestsiburian)
 + 12S21059 [Tio Manalu](github.com/tiomanalu)
-+ 12S21060 [Glory Hutahean](github.com/gloryhutahaean12)
++ 12S21060 [Glory Natasya Hutahean](github.com/gloryhutahaean12)
