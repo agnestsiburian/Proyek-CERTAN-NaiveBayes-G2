@@ -1,0 +1,1 @@
+# Proyek-CERTAN-NaiveBayes-G2
